@@ -1,2 +1,2 @@
 # googlesearchclone
-Making a Google Search Clone using @react 
+Making a Google Search Clone using React
